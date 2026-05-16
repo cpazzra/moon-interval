@@ -10,7 +10,6 @@
 [ext_resource type="Texture2D" uid="uid://cfef3q0cc0sv1" path="res://addons/moon-interval/icons/lerp_property_node.png" id="11_3eppb"]
 [ext_resource type="Texture2D" uid="uid://ctuki45fidr7x" path="res://addons/moon-interval/icons/play_audio_node.png" id="12_5nxt3"]
 [ext_resource type="Texture2D" uid="uid://3jiynrbwh5uu" path="res://addons/moon-interval/icons/set_property_node.png" id="13_y01fo"]
-[ext_resource type="Texture2D" uid="uid://ceg1p6w8k6u" path="res://game/systems/cutscene/intervals/shake_control_interval_node.png" id="14_yol46"]
 [ext_resource type="Texture2D" uid="uid://cchk65lufyfp" path="res://addons/moon-interval/icons/wait_node.png" id="15_uqxyn"]
 
 [sub_resource type="Image" id="Image_eqaou"]
