@@ -14,9 +14,9 @@ var interval_editor: IntervalEditor = null
 var interval_editor_button: Button = null
 
 func _enter_tree():
-	const EVENT_PLAYER := preload("uid://bs7ckj12htwqh")
-	const INTERVAL := preload("uid://cr0j7hu3tjk8b")
-	const INTERVAL_CONTAINER := preload("uid://6bii5s250feh")
+	const EVENT_PLAYER:Texture2D = preload("uid://bs7ckj12htwqh")
+	const INTERVAL:Texture2D = preload("uid://cr0j7hu3tjk8b")
+	const INTERVAL_CONTAINER:Texture2D = preload("uid://6bii5s250feh")
 	
 	## Intervals
 	add_custom_type("Interval", "RefCounted", preload("uid://b17n1b0oicgpl"), INTERVAL)
